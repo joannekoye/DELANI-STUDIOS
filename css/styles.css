@@ -1,0 +1,66 @@
+h2 {
+  text-align: center;
+}
+#showing {
+  display: none;
+}
+#showing-d {
+  display: none;
+
+}
+.header{
+  background-image: url("../img/img2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  color: white;
+
+}
+.header p{
+  padding-bottom: 10%;
+}
+body{
+  text-align: center;
+}
+#showing-p {
+  display: none;
+}
+.services {
+  background-image: url("../img/img3.jpg");
+  color: #fff;
+  padding: 20px;
+
+}
+.contact {
+  background-image: url("../img/img1.jpg");
+  height: 400px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.form-control{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  width: 200px;
+}
+.over{
+  position: absolute;
+  margin-top: -92%;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 100%;
+  width: 91%;
+}
+.over h3{
+  margin-top: 40%;
+  border: 3px solid white;
+}
+input{
+  background: transparent;
+  color: white;
+}
+.icons{
+  margin-top : 200px;
+}
